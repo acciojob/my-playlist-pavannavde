@@ -5,8 +5,9 @@
 	padding-bottom:10px;
 }
 .player_two{
-   padding-left:70px;
+
 	background-color:rgb(255,255,255);
+	padding-left:70px
 }
 a{
 	text-decoration:none;
